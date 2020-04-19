@@ -1,5 +1,4 @@
-body
-	{
+body {
 		background-image: url(../images/BlackMarble.jpg);
 		background-repeat: no-repeat;
 		background-size: cover;
@@ -8,18 +7,21 @@ body
 		display: flex;
 	}
 
-.container
-    {
+.container {
     	margin: auto;
         text-align: center;
-        font-size: 25px;
+        font-size: 20px;
 	}
 
-#currentWord
-	{
+#currentWord {
     	letter-spacing: 10px;
     }
 
-    p {
-        color: yellow;
+#h1 {
+    font-size: 30px;
+    font-style: italic;
+}
+
+p {
+        color:rgb(243, 243, 92);
     }
